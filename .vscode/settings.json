@@ -22,4 +22,7 @@
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": false,
   "editor.wordWrap": "on",
+  "files.associations": {
+    "iostream": "cpp"
+  },
 }
