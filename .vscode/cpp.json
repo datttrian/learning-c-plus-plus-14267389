@@ -1,0 +1,9 @@
+{
+    "Custom C++ Snippet": {
+        "prefix": "custom-cout",
+        "body": [
+            "cout << \"${1:message}\" << endl;"
+        ],
+        "description": "Custom C++ cout snippet"
+    }
+}

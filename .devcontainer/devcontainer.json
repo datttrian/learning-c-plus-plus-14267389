@@ -29,7 +29,8 @@
 				"ms-vscode.cpptools-extension-pack",
 				"formulahendry.code-runner",
 				"streetsidesoftware.code-spell-checker",
-				"PKief.material-icon-theme"
+				"PKief.material-icon-theme",
+				"chris-noring.cpp-snippets"
 			]
 		}
 	},
